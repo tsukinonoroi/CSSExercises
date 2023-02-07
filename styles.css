@@ -1,11 +1,26 @@
-main * title {
+a:link {
+	color: blue;
+}
+a:visited {
 	color: green;
 }
-main * link
-{
-	color: blueviolet;
+a:hover {
+    color: red;
+	text-decoration: none;
 }
-main * .top
-{
+a:active {
+	color: black;
+}
+
+b:link, b:visited {
+    text-decoration: none;
+	color: blue;
+}
+b:hover {
+    text-decoration: underline;
 	color: red;
+}
+b:active {
+    text-decoration: none;
+	color: blue;
 }
