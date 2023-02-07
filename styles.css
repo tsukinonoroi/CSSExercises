@@ -1,9 +1,10 @@
-#elem1 {
+#elem h2 {
 	color: red;
 }
-#elem2 {
+#elem1 .text {
 	color: green;
 }
-#elem3 {
-	color: blue;
+
+#elem1 li.text {
+    color: blue;
 }
