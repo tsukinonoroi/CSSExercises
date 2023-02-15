@@ -1,6 +1,12 @@
-.block a.zzz {
-	color: orange;
+li{
+	border: 1px solid black;
+	list-style-type: circle;
+	color: lightblue;
+	width: 150px;
 }
-.block a.zzz:hover {
-	text-decoration: none;
+li:empty {
+	border: 5px solid purple;
+	list-style-type: circle;
+	color: purple;
+	width: 150px;
 }
