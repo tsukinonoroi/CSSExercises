@@ -1,3 +1,6 @@
-li:not(:first-child, :last-child) {
+#elem {
+	width: 200px;
+	height: 150px;
 	color: blue;
+	background-color: pink
 }
