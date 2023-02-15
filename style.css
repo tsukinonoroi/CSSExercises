@@ -1,6 +1,14 @@
 #elem {
-	width: 200px;
-	height: 150px;
-	color: blue;
-	background-color: pink
+	border-width: 5px;
+	border-style: double;
+	border-color: lightcyan;
+	width: 250px;
+	height: 120px;
+}
+#bocks {
+	border-width: 5px;
+	border-style: dotted;
+	border-color: lightgreen;
+	width: 250px;
+	height: 120px;
 }
