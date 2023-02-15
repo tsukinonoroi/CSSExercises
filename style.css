@@ -1,0 +1,6 @@
+.block a.zzz {
+	color: orange;
+}
+.block a.zzz:hover {
+	text-decoration: none;
+}
