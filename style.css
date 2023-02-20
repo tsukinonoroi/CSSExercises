@@ -1,11 +1,18 @@
-#elem ol {
-    list-style-type: lower-alpha;
+#parent {
+    width: 500px;
+	height: 150px;
+    border: 1px solid lightgreen;
+    border-style: dotted;
 }
 
-#elem1 ol {
-    list-style-type: lower-greek;
+#child {
+    height: 100px;
+    border: 1px solid lightcoral;
+    margin: 30px;
 }
 
-#elem2 ol {
-    list-style-type: upper-alpha;
+#megachild {
+	height: 70px;
+	border: 1px solid green;
+	margin: 15px;
 }
