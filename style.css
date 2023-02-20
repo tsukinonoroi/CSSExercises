@@ -1,15 +1,6 @@
-#elem {
-    width: 100px;
-    height: 100px;
-    background: #f2f2f2;
-    margin-bottom: 20px;
-}
-
-#elem2 {
-    width: 100px;
-    height: 100px;
-    background: #f2f2f2;
-    padding: 25px;
-    border: 10px double rgb(255, 26, 146);
-    box-sizing: 250px;
+div {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	border: 2px solid lightskyblue;
 }
