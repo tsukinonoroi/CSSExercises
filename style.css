@@ -1,13 +1,14 @@
-#parent {
-    width: 200px;
-    border: 1px solid green;
+#elem {
+	padding: 30px;
+	width: 300px;
+	border: 1px solid lightskyblue;
+	text-align: justify;
 }
-
-#child {
-    margin-top: 10px;
-    margin-right: 30px;
-    margin-bottom: 10px;
-    margin-left: 30px;
-    height: 150px;
-    border: 1px solid red;
+#elem2 {
+	margin:10px;
+	padding: 30px;
+	width: 400px;
+	height: 100px;
+	border: 1px solid lightskyblue;
+	text-align: justify;
 }
