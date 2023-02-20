@@ -1,6 +1,15 @@
-#elem {	
-	padding:50px 30px 20px 40px;
-	width: 300px;
-	border: 1px solid lightpink;
-	text-align: justify;
+#elem {
+    width: 100px;
+    height: 100px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+}
+
+#elem2 {
+    width: 100px;
+    height: 100px;
+    background: #f2f2f2;
+    padding: 25px;
+    border: 10px double rgb(255, 26, 146);
+    box-sizing: 250px;
 }
