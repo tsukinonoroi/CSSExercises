@@ -1,9 +1,6 @@
-#elem {
-	padding-top:    10px; /* сверху */
-	padding-right:  22px; /* справа */
-	padding-bottom: 33px; /* снизу */
-	padding-left:   45px; /* слева */
+#elem {	
+	padding:50px 30px 20px 40px;
 	width: 300px;
-	border: 1px solid lightskyblue;
+	border: 1px solid lightpink;
 	text-align: justify;
 }
