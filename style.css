@@ -1,19 +1,6 @@
 #elem {
-	width: 155px;
-	height: 120px;
-	border: 2px solid blue;
-	border-radius: 10px 20px 30px 40px;
-}
-#block {
-		width: 155px;
-		height: 120px;
-		border: 2px solid blue;
-		border-radius: 10px 40px;
-	
-}
-#ball {
-	width: 155px;
-	height: 120px;
-	border: 2px solid blue;
-	border-radius: 10px 20px 30px;
+	width: 150px;
+	height: 150px;
+	border: 2px solid purple;
+	border-radius: 50%;
 }
