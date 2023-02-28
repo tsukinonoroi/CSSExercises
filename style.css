@@ -1,29 +1,21 @@
 #elem1 {
-    width: 100px;
-    height: 100px;
-    margin-top: 200px;
-    border: 1px solid purple ;
-	background-color: purple;
+	width: 100px;
+	height: 100px;
+	margin-bottom: -10px;
+    margin-right: 20px;
+	background-color: #FF8888;
 }
-
 #elem2 {
-    position: absolute;
-    bottom: 0;
-    margin-bottom: 580px;
-    margin-left: 100px;
-    width: 100px;
-    height: 100px;
-    border: 1px solid lightskyblue;
-	background-color: lightskyblue;
+	width: 100px;
+	height: 100px;
+	margin-bottom: -10px;
+    margin-left: 78px;
+	background-color: #7E89EB;
 }
-
-#elem3{
-    position: absolute;
-    bottom: 0;
-    margin-bottom: 480px;
-    margin-left: 200px;
-    width: 100px;
-    height: 100px;
-    border: 1px solid royalblue;
-	background-color: royalblue;
+#elem3 {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+    margin-left: 156px;
+	background-color: #4DEE99;
 }
