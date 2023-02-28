@@ -1,11 +1,13 @@
 .parent {
-    text-align: right;
-    padding: 10px 0;
-    border: 1px solid purple;
+    display: flex;
+    width: 700px;
+    height: 200px;
+    border: 1px solid black;
 }
 
 .child {
-    width: 100px;
-    padding: 10px;
-    border: 1px solid orange;
+	margin: 10px;
+    width: 80px;
+    height: 50px;
+    border: 1px solid yellowgreen;
 }
