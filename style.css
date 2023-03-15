@@ -3,6 +3,11 @@ div {
 	border: 1px solid purple;
 	text-align: justify;
 }
+p {
+	margin-left: 30px;
+	border: 1px solid lightskyblue;
+}
 img {
 	float: left;
+	opacity: 0.5;
 }
