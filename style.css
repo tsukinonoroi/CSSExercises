@@ -1,7 +1,8 @@
 div {
-	width: 450px;
+	width: 400px;
+	border: 1px solid purple;
 	text-align: justify;
 }
 img {
-	float:right;
+	float: left;
 }
