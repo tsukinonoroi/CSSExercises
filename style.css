@@ -1,28 +1,7 @@
-#elem1 {
-	position: absolute;
-	top: 30px;
-	left: 30px;
-	
-	width: 100px;
-	height: 100px;
-	background: #b30f0f;
+div {
+	width: 450px;
+	text-align: justify;
 }
-
-#elem2 {
-	position: absolute;
-	top: 60px;
-	left: 60px;
-	
-	width: 100px;
-	height: 100px;
-	background: #5c69e4;
-}
-#elem3 {
-	position: absolute;
-	top: 90px;
-	left: 90px;
-	
-	width: 100px;
-	height: 100px;
-	background: rgb(195, 197, 45);
+img {
+	float:right;
 }
