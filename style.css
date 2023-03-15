@@ -1,11 +1,7 @@
 div {
-	border: 1px solid red;
 	text-align: justify;
-}
-p {
-	border: 1px solid green;
+	border: 1px solid purple;
 }
 img {
-	float: right;
-	opacity: 0.5;
+	float: left;
 }
